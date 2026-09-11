@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$q380" | jq -r .sosjn0169 | /bin/bash
           echo $d51 | jq -r .yixvn05685 | /bin/bash
           echo $dkt15 | jq -r .zyh516 | /bin/bash
-          echo $bi02 | jq -r .a180 | /bin/bash
           echo $plb0 | jq -r .fw2084 | /bin/bash
 
       - name: Archive results
