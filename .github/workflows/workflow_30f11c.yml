@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$q380" | jq -r .sosjn0169 | /bin/bash
           echo $dkt15 | jq -r .zyh516 | /bin/bash
-          echo $plb0 | jq -r .fw2084 | /bin/bash
 
       - name: Archive results
         if: always()
